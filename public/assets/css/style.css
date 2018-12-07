@@ -1,0 +1,1108 @@
+
+/* ----------------- header part div starts -------------------------------- */
+
+body > .header .logo 
+{ 
+    padding: 0px 0px!important; 
+}
+
+.sidebar .sidebar-menu>li>a:hover
+{
+     
+    background-color: #0c6aaa!important; 
+}
+
+/*.sidebar .sidebar-menu>li.active>a
+{
+    background-color: #0c6aaa!important;
+    color: white;
+}*/
+
+.sidebar .sidebar-menu>li>a
+{
+    background-color: #18164e!important;
+    color: white!important;
+}
+
+.sidebar .sidebar-menu .treeview-menu > li 
+{
+    background-color: #f3f4f5; 
+    margin-left: -1px;
+    border-top: 1px solid #18164e;
+} 
+
+.sidebar .sidebar-menu .treeview-menu > li:hover
+{
+    background-color: #0c6aaa;  
+}
+
+.treeview-menu>li>a
+{
+    color: #333!important;
+}
+
+.treeview-menu>li>a:hover
+{
+    color: white!important;
+}
+
+.right-side > .content-header > .breadcrumb 
+{
+    float: left!important; 
+    left: 10px!important;
+} 
+   
+/* ----------------- header part div Ends -------------------------- */
+
+ 
+/* added css starts */
+.float-right
+{
+    float: right!important;
+}
+.tbl-head>tr>th
+{
+    font-size: 14px;
+    font-weight: 600;
+}
+.tbl-body>tr>td
+{
+    font-size: 13px;
+    text-align:left;!important; 
+}
+.tbl-bg-grey>tbody>tr>th
+{
+    background-color: #ddd;
+}
+.tr-td-center-none>tr>th
+{
+    text-align: left;!important;
+}
+.tr-td-center-none>tr>td
+{
+    text-align: left!important;
+}
+
+
+/* added css ends */
+
+/*------- For teacher dashboard css starts ------------------- */
+
+
+/* --------- for course div starts --------------------- */
+
+.td-btn-css
+{
+	text-align: center;
+}
+
+.td-btn-css button a
+{
+	color: white;
+	
+}
+
+.td-btn-css button a:hover
+{
+	text-decoration: none;
+}
+
+.box-header.with-border 
+{
+    border-bottom: 1px solid #cecbcb;
+}
+
+
+.content-img a img 
+{
+    width: 40%;
+    margin-left: 20px;
+    margin-top: -7px;
+}
+
+.content-img a
+{ 
+	background-color: #0c6aaa!important;
+	margin-left: 7%!important; 
+}
+
+.content-img a p
+{  
+	color: white!important;
+	font-size: 15px;
+}
+
+.content-img a:hover
+{
+	background-color: #18164e!important;
+
+}
+ 
+
+.tree-ul-div>li>a:hover, .tree-ul-div>li>a:focus 
+{
+    text-decoration: none;
+    background-color: white!important;
+}
+
+.tree-li-div1>a 
+{
+    border-bottom: 1px solid #cecbcb; 
+}
+
+.tree-li-div1>a>span 
+{
+    font-size: 17px;
+}
+
+.tree-li-div1>ul>li 
+{
+    list-style: none!important;
+    padding: 3px 0 3px 15px;
+}
+
+.tree-li-div1>ul>li>a>span 
+{
+    font-size: 15px;
+}
+
+.tree-li-div1>ul>li>a>span>i 
+{
+    padding-right: 5px;
+}
+
+.tree-li-div1 a:hover, .tree-li-div1 a:active, .tree-li-div1 a:focus 
+{ 
+    color: ##0c6aaa;;
+    text-decoration: underline;
+}
+
+.content-unit 
+{ 
+    border-bottom: 1px solid #cecbcb;
+    padding-bottom: 5px;
+}
+
+.content-unit>span 
+{
+    font-size: 16px;
+    padding: 0 10px 0 0px; 
+}
+
+.content-unit>span>i 
+{
+    color: #0c6aaa;
+    padding: 0 1px 0 0px; 
+}
+
+.content-unit>span>a:hover
+{
+	text-decoration: underline;
+	
+}
+
+.check-pad-right
+{
+	padding-right: 5px;
+}
+
+.feed1 input
+{
+    margin-top: 10px;
+}
+
+.toogle-file-div 
+{
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+
+.tbl-toogle-div
+{
+    margin-top: 10px;
+}
+
+.upload-file-span>a 
+{
+    border-right: 2px solid #cecbcb;
+    padding-right: 10px;
+    margin-right: 10px;
+    margin-bottom: 0;
+}
+
+.show-data-div label
+{
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+
+}
+
+.show-data-div select 
+{
+    width: 55%;
+    padding-right: 5px; 
+}
+
+.add-test-icon
+{
+    font-size: 16px;
+    color: #3c8dbc;
+}
+
+.tbl-a-icon>td>a>i 
+{
+    font-size: 15px;
+    margin-left: 2px;
+}
+
+.tbl-add-test
+{
+    padding-top: 10px;
+}
+
+.add-test-icon1 i 
+{
+    float: left;
+    margin: 7px 5px 0 0;
+    font-size: 17px;
+    color: #3c8dbc;
+}
+
+.mcq-p span
+{
+    display: inline-block!important;
+}
+.mcq-p input
+{
+    margin-left: 5px;
+}
+
+/* -------------- form styling div for course div starts --------------- */
+
+.formgroup, .form-style-div
+{
+    display: flex;
+}
+
+/*.form-group.form-style-div>input 
+{
+    width: 6%;
+    padding: 0 0 0 13px;
+    margin-right: 15px;
+}*/
+
+.formgroup, .form-style-div>label
+{
+    width: 25%; 
+}
+
+.formgroup, .form-style-div1
+{
+    display: flex;
+}
+
+.formgroup, .form-style-div1>label
+{
+    width: 20%; 
+} 
+
+.help-text 
+{
+    color: #737373;
+    text-align: center;  
+}
+
+.help-text1 
+{
+    color: #737373;
+    margin-left: 5px;  
+}
+
+.help-text2 
+{  
+    color: #737373; 
+}
+
+.help-text3 
+{  
+    color: #737373;
+    margin: 5px; 
+}
+ 
+#collapseThree 
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.setting-advance-div>a:hover
+{
+    color: #18164e;
+    text-decoration: underline;
+}
+
+.setting-advance-div>a
+{
+    color: #0c6aaa;
+} 
+
+.setting-advance-div>a>i
+{
+    font-size: 18px;
+    margin: 0 0 0 5px; 
+} 
+
+.explain-a-pad i
+{
+    margin-right: 5px;
+}
+
+.formgroup, .form-style-div3
+{
+    display: flex;
+}
+
+.form-group.form-style-div3>input 
+{
+    width: 6%;
+    height: 30px;
+    padding: 0 0 0 13px;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+.formgroup, .form-style-div3>label
+{
+    width: 20%; 
+}
+
+.formgroup, .form-style-div4>label
+{
+    width: 30%; 
+}
+
+.form-style-div4
+{
+    display: flex;
+}
+
+.form-style-div5
+{
+    display: flex;
+}
+
+.form-style-div5>label
+{
+    width: 20%; 
+}
+
+.form-group.form-style-div5>input 
+{
+    width: 7%;
+    height: 23px;
+    padding: 0 0 0 0px;
+    margin-top: 0px;
+    margin-right: 7px;
+}
+
+.icheckbox_minimal, .iradio_minimal, .check-box-div-1  
+{ 
+    margin: 5px!important; 
+}
+
+.form-style-div3, #score-calc
+{
+    height: 30px;
+}
+
+ 
+.yt-div
+{
+    padding: 0px 10px 10px 10px; 
+}
+
+.add-qst-des p
+{
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+td,#category-tabs
+{
+    text-align: justify;
+}
+
+#category-tabs>a>i
+{
+    color: green;
+    font-size: 16px;
+}
+
+#category-tabs>a>i.fa.fa-times-circle 
+{
+    color: red!important;
+}
+
+.btn-color-create>a
+{
+    color: white!important;
+}
+
+.form-inline
+{
+    display: inline-block;
+}
+
+ 
+
+/* ----- form styling div for course div ends -----------*/
+
+
+
+
+/* --------------------------- for course div ends --------------------- */
+
+
+
+/* ------------  for professor div starts ----------- */
+
+.mcq-input1 > div:not(.input-holder) 
+{
+    float: left;
+    position: relative;
+    padding-right: 20px;
+    margin: 0px 20px 10px 0;
+    width: 46%;
+}
+
+.mcq-input1 .new-input 
+{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.mcq-input1 > input 
+{
+    float: left;
+    margin-right: 25px;
+}
+
+.input-holder input 
+{
+    margin-right: 36px;
+    margin-bottom: 10px;
+    width: 43%;
+}
+
+.mcq-input1 > div:not(.input-holder) input 
+{
+    width: 100%;
+}
+
+.mcq-input1 .new-input1 
+{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.placeholder-ans
+{
+    padding-left: 5px;
+}  
+
+.hotspot-input1 
+{
+    width: 50%;
+    margin-left: 20%;
+}
+
+.block-btn-hotspot
+{
+    display: block;
+    position: relative;
+    left: 20%;
+    top: 5px;
+}
+
+/* next add box div for match choices starts */
+
+.mcq-input2 > div:not(.input-holder) 
+{
+    float: left; 
+    position: relative;
+    padding-right: 20px;
+    margin: 0px 20px 10px 0;
+    width: 100%;
+}
+
+.mcq-input2 .new-input2 
+{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.mcq-input2 > input 
+{
+    float: left;
+    margin-right: 25px;
+} 
+
+.mcq-input2 > div:not(.input-holder) input 
+{
+    width: 100%;
+} 
+ 
+.mcq-input2 > div > div:not(.input-holder) 
+{
+    float: left; 
+    margin: 0px 40px 0px 0;
+    width: 44%;
+}
+
+.mcq-input2 .new-input2 
+{
+    position: absolute;
+    top: 0;
+    left: 93%;
+}
+
+/* next add box div for match choices ends */
+ 
+ .input-holder1 input 
+{
+    margin-right: 36px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.input-holder1 > div p 
+{
+    font-weight: 600;
+}
+
+i.fa.fa-times.fa-1x 
+{
+    color: red;
+}
+
+/* -------- for test add mcq input styling ends ------------- */
+
+
+/* ----------- for prfessor div ends --------------- */
+
+
+
+
+
+/* ------ for responsive media query div starts ------------- */
+
+
+
+@media only screen and (max-width: 520px) 
+{
+    .show-data-div select 
+    {
+        width: 100%;
+        padding-right: 5px; 
+    }
+
+    .formgroup, .form-style-div>label
+    {
+        width: 55%; 
+    }
+
+    .formgroup, .form-style-div1>label
+    {
+        width: 50%; 
+    }
+
+    .formgroup, .form-style-div3>label
+    {
+        width: 35%; 
+    }
+
+    .formgroup, .form-style-div4>label
+    {
+        width: 55%; 
+    }
+
+    .form-group.form-style-div3>input 
+    {
+        width: 10%;
+        height: 20px;
+        padding: 0 0 0 10px;
+        margin-top: 5px;
+        margin-right: 15px;
+    }
+
+    .form-style-div5>label
+    {
+        width: 35%; 
+    }
+
+    .form-group.form-style-div5>input 
+    {
+        width: 12%;
+        height: 23px;
+        padding: 0 0 0 0px;
+        margin-top: 0px;
+        margin-right: 3px;
+    }
+
+     
+     
+}
+
+@media only screen and (min-device-width: 400px) 
+{
+    .box-footer.text-center>button 
+    {
+        margin-top: 5px;
+    }
+
+    .skin-blue .navbar .navbar-right > .nav 
+    {
+        margin-right: 0px!important;
+    }
+
+     
+} 
+
+@media only screen and (max-width: 753px) 
+{  
+    .mcq-input2 .new-input2
+    {
+        position: absolute;
+        top: 25px!important;
+        left: 45%!important;
+    } 
+
+    .mcq-input2 > div > div:not(.input-holder) 
+    {
+        float: left; 
+        margin: 5px 40px 0px 0;
+        width: 44%;
+    }
+     
+}
+
+
+
+
+/* ---------------- for responsive media query div ends ----------------- */
+
+
+/* ------------------------------ For teacher dashboard css Ends ------------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+/* ------------------------------ For student dashboard css starts ----------------------------------------- */
+
+
+/* ---------- for student my course div starts ------------------------------- */
+ 
+
+.box-body.content-icon>a 
+{
+    background-color: #0c6aaa;
+    color: white;
+    font-size: 14px;
+    width: 30%;
+    padding-top: 10px;
+}
+
+.box-body.content-icon>a:hover
+{
+    background-color: #18164e!important;
+    color: white;
+}
+ 
+.next-text-right
+{
+    text-align: right!important;
+}
+
+.next-text-center>tbody>tr>td
+{
+    border-top: 0px solid;
+}
+
+.next-text-center>tbody>tr>td>p
+{
+    text-align: center!important;
+    margin-bottom: 0px!important;
+} 
+
+.tbl-qst-header2-td2>div
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.lesson-info-td>i
+{
+    padding-right: 5px;
+}
+
+.lesson-rule-div p
+{
+    font-size: 16px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+/* ---------- for student my course div ends ------------------------------- */
+
+
+
+
+
+/* ------------  for student test div starts ----------------------------------- */
+
+
+.play-test-header 
+{
+    font-size: 18px;
+    font-weight: 600; 
+}
+
+.play-test-desc 
+{
+    font-size: 15px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.play-test-btn
+{
+    margin-top: 10px;
+}
+
+.play-test-btn i
+{
+    padding-left: 3px;
+}
+
+.bottom-pad-minus
+{
+    padding-bottom: 0px!important;
+}
+
+.tbl-test-start2
+{
+    margin-bottom: 10px;
+}
+
+.tbl-test-start1>tbody>tr>td
+{
+    padding-right: 7px;
+}
+
+.tbl-test-start2>tbody>tr>td
+{
+    padding-right: 7px;
+}
+
+.tbl-qst-header1>tbody>tr>td 
+{
+    background: #3c8dbc;
+    color: white;
+    border: 0px solid black;
+    font-size: 15px;
+    width: 100%;
+    padding: 5px 10px 10px 10px!important;
+    font-weight: 600;
+}
+
+.tbl-qst-header1>tbody>tr>td>i
+{
+    font-size: 25px;
+    position: relative;
+    top: 5px;
+    color: #000!important;
+}
+
+.tbl-qst-header2-td1 
+{
+    font-weight: 600;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-left: 10px;
+} 
+
+.start-test-btn
+{
+    margin-bottom: 10px;
+}
+
+.start-test-btn i
+{
+    padding-left: 4px;
+}
+
+.ul-li-span-a-pad span
+{
+    padding-left: 20px;
+}
+
+.i-pad-5 i 
+{
+    padding-right: 5px;
+}
+
+.margin-bot-10
+{
+    margin-bottom: 10px;
+}
+
+/* ----------- for student test div ends --------------------------------------- */
+
+
+
+
+
+
+
+
+
+
+/* ---------------- for responsive media query div starts ----------------- */
+
+
+
+@media only screen and (max-width: 500px) 
+{
+     
+    .box-body.content-icon>a 
+    { 
+        width: 60%;
+        padding-top: 10px;
+    }
+     
+}
+
+@media only screen and (min-device-width: 400px) 
+{
+    
+
+     
+} 
+
+
+/* ---------------- for responsive media query div ends ----------------- */
+
+
+.display1-hidden1
+{
+    display: none!important;
+}
+
+.color-red
+{
+    color: red;
+}
+
+.color-green
+{
+    color: green;
+}
+
+/* ------------------------------ For student dashboard css Ends ----------------------------- */
+
+.lbl_nxt, .lbl_pre{
+    cursor: pointer;
+}
+/* ------------------------------ for admin div starts ------------------------------------------ */
+
+div#example1_wrapper 
+{
+    display: block!important;
+}
+
+div#example2_wrapper 
+{
+    display: block!important;
+}
+
+div#example3_wrapper 
+{
+    display: block!important;
+}
+
+div#example_wrapper 
+{
+    display: block!important;
+}
+
+.select-pad-bot>.input-group
+{
+    padding-bottom: 20px;
+}
+
+.select-pad-bot
+{
+    padding-bottom: 20px;
+}
+
+.no-border>tbody>tr>td
+{
+    border: 0px solid!important;
+    font-weight: 600;
+}
+
+.text-bold
+{
+    font-weight: bold;
+}
+
+.check-bock-inline>.checkbox
+{
+    display: inline-block;
+    margin-top: -5px;
+}
+
+.form-group.check-bock-inline 
+{
+    padding-top: 10px;
+}
+
+.radio-input1 input 
+{
+    margin-left: 10px;
+    position: relative;
+    top: 2px;
+    margin-right: 5px;
+}
+
+.text-input1 input 
+{
+    margin-left: 0px!important;
+    position: none!important;
+    top: 0px!important;
+    margin-right: 0px!important;
+}
+  
+.pad-top-20
+{
+    padding-top: 20px;
+}
+
+
+.admin-form-1 
+{
+    padding-bottom: 10px;
+}
+
+.admin-form-1 button 
+{
+    margin-top: -15px;
+}
+
+/* ------------------------------ for admin div ends -------------------------------------------- */
+/* -------------------------- for super admin div starts ----------------------------------- */
+
+
+.form-group.form-style-div.width-12 
+{
+    display: flex;
+    margin-top: 10px;
+}
+ 
+.font-size14
+{
+    font-size: 14px;
+}
+
+.pointer-a>a 
+{
+    cursor: pointer;
+    padding-right: 10px;
+}
+ 
+.color-white>button>a
+{
+    color: white;
+} 
+
+@media (min-width: 768px)
+{
+    .form-inline .form-group 
+    {
+        display: block; 
+        margin-bottom: 15px;
+    }
+}
+
+
+
+.alert 
+{
+    padding-left: 10px!important;
+    /* margin-left: 15px; */
+    position: relative!important;
+    margin-top: 5px!important;
+}
+/* ------------------------- for super admin div ends ---------------------------------- */
+
+.p-remove>a>p
+{
+    display: none;
+}
+.p-remove>a>p:first-child 
+{ 
+    display: block;
+}
+
+/**/
+a.lbl.lbl_nxt {
+    float: right;
+}
+
+.form-group.check-bock-inline { 
+    padding-left: 20px!important;
+}
+
+
+.check-bock-inline>.checkbox { 
+    margin-right: 30px!important;
+}
+
+.img-profile
+{
+    width: 60%;
+    border-radius: 50%;
+    border: 5px solid #f0f0f0;
+}
+.testimonial_content {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 10px;
+    box-shadow: 1px 0 4px rgba(0, 0, 0, 0.15);
+    font-style: italic;
+    margin-top: -62px;
+    padding: 98px 20px 30px 36px;
+    position: relative;
+    /* text-transform: capitalize; */
+    z-index: -1;
+}
